@@ -11,7 +11,7 @@ require("dotenv").config();
 
 
 const PORT = 3001;
-const PASSWORD = "";
+const PASSWORD = "w3r3lup345";
 
 //database connection
 const mongo_url = `mongodb+srv://donnie:${PASSWORD}@cluster0.kklrhxy.mongodb.net/crudStore?retryWrites=true&w=majority`;
